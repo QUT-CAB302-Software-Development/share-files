@@ -1,7 +1,5 @@
 package example.data;
 
-import javafx.collections.ObservableList;
-
 import java.util.Set;
 
 /**

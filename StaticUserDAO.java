@@ -1,8 +1,4 @@
 package example.data;
-
-import javafx.collections.ObservableList;
-import javafx.collections.ObservableListBase;
-
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
